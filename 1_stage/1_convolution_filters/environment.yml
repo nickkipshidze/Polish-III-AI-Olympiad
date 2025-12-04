@@ -1,4 +1,4 @@
-name: filtry_konwolucyjne
+name: convolution_filters
 channels:
   - pytorch
   - nvidia

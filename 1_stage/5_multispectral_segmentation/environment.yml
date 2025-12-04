@@ -1,4 +1,4 @@
-name: satelite-images
+name: satelite_images
 channels:
   - pytorch
   - nvidia

@@ -1,4 +1,4 @@
-name: szept_czy_krzyk
+name: whisper_or_scream
 channels:
   - pytorch
   - nvidia

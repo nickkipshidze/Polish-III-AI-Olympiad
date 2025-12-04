@@ -1,4 +1,4 @@
-name: zmiany_semantyczne
+name: semantic_changes
 channels:
   - conda-forge
   - defaults

@@ -1,4 +1,4 @@
-name: klasyfikacja_wieloetykietowa
+name: multilabel_classification
 channels:
   - pytorch
   - nvidia
